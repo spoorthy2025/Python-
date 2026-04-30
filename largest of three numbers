@@ -10,3 +10,10 @@ else:
    largest = num3
  
 print("The largest number is",largest)
+
+out put:
+
+Enter first number: 9
+Enter second number: 18
+Enter third number: 27
+The largest number is 27
